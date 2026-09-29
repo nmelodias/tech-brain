@@ -89,7 +89,9 @@ Material utilizado para compreender conceitos relacionados à comunicação HTTP
 
 **PostgreSQL Documentation**
 
-https://www.postgresql.org/docs/
+https://www.postgresql.org/docs/;
+
+
 https://www.postgresql.org/about/
 
 Fonte utilizada como referência para conceitos relacionados a bancos de dados relacionais e SQL.
