@@ -1,6 +1,9 @@
 # tech-brain
 Tech Brain — Central de conhecimento e estudos sobre Python, SQL, APIs, Git e automação com N8N.
 
+https://notebook.google.com/notebook/87780a1d-93e7-4925-bf2f-e8990faadcd1
+
+
 # 🧠 Tech Brain
 
 > Caderno Temático de Tecnologia utilizando Inteligência Artificial como ferramenta de aprendizagem ativa.
